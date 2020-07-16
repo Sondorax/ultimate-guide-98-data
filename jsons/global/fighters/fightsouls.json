@@ -849,9 +849,9 @@
 		{
 			"fighter_id": "HINAKO",
 			"fightsoul": {
-				"name": null,
-				"description": null,
-				"description_es": null,
+				"name": "TURTLE",
+				"description": "Recover 20 extra rage upon injury.",
+				"description_es": "Recupera 20 de rage cuando es atacada.",
 				"description_pt": null
 			}
 		},
@@ -860,7 +860,7 @@
 			"fightsoul": {
 				"name": "BEAR",
 				"description": "Get 115 initial rage and recover extra rage when attacking",
-				"description_es": null,
+				"description_es": "Obtiene 115 de Rage al inicio del combate, recupera Rage extra cuando ataca.",
 				"description_pt": null
 			}
 		},
@@ -885,9 +885,9 @@
 		{
 			"fighter_id": "OSWALD",
 			"fightsoul": {
-				"name": null,
-				"description": null,
-				"description_es": null,
+				"name": "TURTLE",
+				"description": "Restore 40 Rage when attacked, and get much Rage at start.",
+				"description_es": "Restaura 40 de rage cuando es atacado, y obtiene Rage al inicio del combate.",
 				"description_pt": null
 			}
 		},
@@ -914,7 +914,7 @@
 			"fightsoul": {
 				"name": "SNAKE",
 				"description": "restore 40 extra Rage when attacking, and restore a large amount of Rage when ally or enemy dies",
-				"description_es": null,
+				"description_es": "Restaura 40 de Rage cuando ataca, y recupera una enorme cantidad de Rage cuando un aliado o enemigo muere.",
 				"description_pt": null
 			}
 		},
@@ -923,16 +923,16 @@
 			"fightsoul": {
 				"name": "TURTLE",
 				"description": "Gain 24 extra Rage when under attack and much extra Rage when attacking",
-				"description_es": null,
+				"description_es": "Gana 24 de Rage cuando recibe daño, y gana Rage extra cuando esta ataca.",
 				"description_pt": null
 			}
 		},
 		{
 			"fighter_id": "RALF_XIII",
 			"fightsoul": {
-				"name": null,
-				"description": null,
-				"description_es": null,
+				"name": "BEAR",
+				"description": "Gain 115 Rage initially, restore extra Rage when being attacked.",
+				"description_es": "Gana 115 de Rage al inicio del combate, restaura Rage extra cuando es atacado.",
 				"description_pt": null
 			}
 		},
@@ -949,17 +949,17 @@
 			"fighter_id": "KENSOU_XII",
 			"fightsoul": {
 				"name": "SNAKE",
-				"description": "Recover 40 exfra Rage when attacking, and recover 40 Rage if ally or enemy dies.",
-				"description_es": null,
+				"description": "Recover 40 extra Rage when attacking, and recover 40 Rage if ally or enemy dies.",
+				"description_es": "Recupera 40 de Rage cuando ataca, y recupera 40 de Rage cuando un aliado o enemigo muere.",
 				"description_pt": null
 			}
 		},
 		{
 			"fighter_id": "MAI_NEW",
 			"fightsoul": {
-				"name": null,
-				"description": null,
-				"description_es": null,
+				"name": "SNAKE",
+				"description": "Attack recovers extra rage by 40, while injury recovers certain extra Rage.",
+				"description_es": "Recupera 40 de Rage cuando ataca, cuando es atacada recupera un poco mas de Rage.",
 				"description_pt": null
 			}
 		},
